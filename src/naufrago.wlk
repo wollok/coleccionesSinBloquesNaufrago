@@ -8,7 +8,7 @@
 
 
 object chuck {
-	var amigos = [diego,claudio, hernan]
+	var amigos = [diego,claudio]
 	
 	method nuevoAmigo(_amigo) {
 		amigos.add(_amigo)
