@@ -1,4 +1,7 @@
 # Náufrago
+ 
+[![Build Status](https://travis-ci.org/wollok/coleccionesSinBloquesNaufrago.svg?branch=master)](https://travis-ci.org/wollok/coleccionesSinBloquesNaufrago)
+
 
 ## Ejercicio con colecciones, con mensajes que no usan bloques
 
