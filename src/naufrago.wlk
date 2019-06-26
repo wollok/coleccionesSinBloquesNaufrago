@@ -1,12 +1,3 @@
-/* 1)
- * Elegidos: Todos sus amigos y la ultima novia de Wilson
- * 2)
- * Pueden ir juntos:  Si su primer amigo se lleva bien con la 2 novia de Wilson
- * 3)
- * Robar novias: Se hace amigo de la mitad de las novias de Wilson quienes lo dejan
- */
-
-
 object chuck {
 	var amigos = [diego,claudio]
 	
