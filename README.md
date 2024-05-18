@@ -1,6 +1,6 @@
 # Náufrago
  
-[![Build Status](https://travis-ci.org/wollok/coleccionesSinBloquesNaufrago.svg?branch=master)](https://travis-ci.org/wollok/coleccionesSinBloquesNaufrago)
+[![Build Status](https://github.com/wollok/coleccionesSinBloquesNaufrago/actions/workflows/ci.yml/badge.svg)](https://github.com/wollok/coleccionesSinBloquesNaufrago/actions/workflows/ci.yml)
 
 
 ## Ejercicio con colecciones, con mensajes que no usan bloques
